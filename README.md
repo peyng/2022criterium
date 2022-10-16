@@ -107,7 +107,7 @@ a.p:hover span {
 
 
 <h1><span class="blue">本番動画</span></h1>
-<h1><span class="blue">１曲めは、「そばかす」</span></h1>
+<h1><span class="blue">１曲目は、「そばかす」</span></h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvQXCjk5k64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
