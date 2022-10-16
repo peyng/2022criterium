@@ -126,7 +126,7 @@ a.p:hover span {
 <a href="20221015criterium.png" data-lightbox="abc"><img src="20221015criterium.png" alt="サンプル画像" width="900" /></a>
 <br>
 
-	<h1><span class="blue">半澤さんからの連絡<br>どもです。昨夜のライブ無事に終わりました。<br>来てくれた人がとってくれた動画です。<br>曲は、そばかす、とデスペラードです。 ！</span></h1>
+	<h1><span class="blue">半澤さんからの連絡<br><br>どもです。<br>昨夜のライブ無事に終わりました。<br>来てくれた人がとってくれた動画です。<br>曲は、そばかす、とデスペラードです。 ！</span></h1>
 
 
 
