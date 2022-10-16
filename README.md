@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/2022criterium/20221015criterium.png) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/2022criterium/criterium.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
