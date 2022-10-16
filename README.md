@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/miya_street_gig_2021/20210522039.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/2022criterium/20221015criterium.png) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -123,11 +123,11 @@ a.p:hover span {
 <br><br><br>
 
 	<h1><span class="blue">パンフレット</span></h1>
-<a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221015criterium.png" data-lightbox="abc"><img src="20221015criterium.png" alt="サンプル画像" width="900" /></a>
 <br>
 
 	<h1><span class="blue">River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</span></h1>
-<a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 	
@@ -141,7 +141,7 @@ a.p:hover span {
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景はMIYA STREET GIG パンフレット ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景はわくわくコンサート パンフレット ~~~ (^^)/</marquee></p>
 
 
 
