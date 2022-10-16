@@ -101,7 +101,7 @@ a.p:hover span {
 </p>
 	
 <p><a href="https://peyng.github.io/River-Jewelries-home/">Home</a>>miya street gig 2021</p>
-<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月15日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月15日(土)_River Jewelries@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 
