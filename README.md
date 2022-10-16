@@ -94,14 +94,14 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('MIYA STREER GIG 2021の写真と動画集です。来年もまた見せてね〜(^o^)/')">
+<body onload="alert('ワクワクコンサート 2022の動画集です。来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
 	
 <p><a href="https://peyng.github.io/River-Jewelries-home/">Home</a>>miya street gig 2021</p>
-<h1><span class="yellow"><marquee behavior="left">!!! 2021年5月22日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月15日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 
