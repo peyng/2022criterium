@@ -106,13 +106,13 @@ a.p:hover span {
 <br>
 
 
-	<h1><span class="blue">本番動画</span></h1>
-	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
-
+<h1><span class="blue">本番動画</span></h1>
+<h1><span class="blue">１曲めは、「そばかす」</span></h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvQXCjk5k64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
-<h1><span class="blue">ちあきなおみ「喝采」、オリジナルバージョン</span></h1>	
-<iframe width="600" height="338" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1><span class="blue">２曲目は、「デスペラード」</span></h1>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1diMb0nwSwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 	
@@ -126,7 +126,7 @@ a.p:hover span {
 <a href="20221015criterium.png" data-lightbox="abc"><img src="20221015criterium.png" alt="サンプル画像" width="900" /></a>
 <br>
 
-	<h1><span class="blue">River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</span></h1>
+	<h1><span class="blue">半澤さんからの連絡<br>どもです。昨夜のライブ無事に終わりました。来てくれた人がとってくれた動画です。<br>曲は、そばかす、とデスペラードです。 ！</span></h1>
 
 
 
